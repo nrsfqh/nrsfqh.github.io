@@ -7,6 +7,8 @@
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
+            /* cursor to-be-removed if needed */
+            cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym596.cur), auto !important;
         }
 
         .container {
@@ -37,6 +39,7 @@
         .nav {
             text-align: center;
             padding-bottom: 2rem;
+            /* border-top: 2px solid #ccc; */
         }
 
         .nav a {
@@ -112,3 +115,4 @@
             color: #777;
             font-size: 0.9rem;
         }
+
